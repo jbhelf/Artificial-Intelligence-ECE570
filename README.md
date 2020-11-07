@@ -10,7 +10,7 @@
 ## Other notes:
 #### All code is original and has been written from scratch (with the exception of the python libraries used)
 
-#### Dataset Used: 
+#### Dataset Used (note that there have been some issues loading the set as of 11/7): 
 ##### - CDC Page: https://www.cdc.gov/flu/weekly/
 ##### - Section Title: National Center for Health Statistics (NCHS) Mortality Surveillance
 ##### - Chart Title: Pneumonia, Influenza and COVID-19 Mortality from the National Center for Health Dtatistics Mortality Surveillance System
